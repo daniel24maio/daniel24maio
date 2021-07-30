@@ -28,7 +28,7 @@
 <div> 
     <a href="https://github.com/daniel24maio">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniel24maio&show_icons=true&theme=tokyonight&include_all_commits=true&        count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel24maio&layout=compact&langs_count=7&theme=blueberry"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel24maio&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
   
 ## Redes Sociais
