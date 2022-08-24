@@ -5,7 +5,7 @@
 * ✔️ Graduação - Gestão da Tecnologia da Informação - EAD Cruzeiro do Sul.
 * ✔️ Técnico em Automação Industrial - IFMG - Campus Ouro Preto.
 
-* 🌱 No momento aprendendo Spring...
+* 🌱 No momento refatorando conhecimentos PHP/Laravel...
  ##
  ## Linguagens que tenho contato ou já tive contato.
 <div style="display: inline_block">
