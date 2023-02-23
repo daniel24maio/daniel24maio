@@ -2,7 +2,7 @@
 
 
 * 👨‍🎓 Graduando em Sistemas de Informação - IFMG - Campus Ouro Branco.
-* 👨‍💻 Analista de Sistema Jr - CLI Consultoria.
+* 👨‍💻 Analista de Sistemas Jr - CLI Consultoria.
 * ✔️ Bolsista PIBEX - Projeto Professor Digital, IFMG - Campus Ouro Branco.
 * ✔️ Graduação - Gestão da Tecnologia da Informação - EAD Cruzeiro do Sul.
 * ✔️ Técnico em Automação Industrial - IFMG - Campus Ouro Preto.
