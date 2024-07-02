@@ -43,6 +43,3 @@
 - Escutando:<br>
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=daniel24maio&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
   
-- Jogos ou Plataformas:<br>
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">  
