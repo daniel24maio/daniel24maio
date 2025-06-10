@@ -2,6 +2,7 @@
 
 
 * 👨‍🎓 Graduando em Sistemas de Informação - IFMG - Campus Ouro Branco.
+* 👨‍💻 Estágio em Desenvolvimento Web - CI&T.
 * 👨‍💻 Analista de Sistemas Jr - CLI Consultoria.
 * ✔️ Bolsista PIBEX - Projeto Professor Digital, IFMG - Campus Ouro Branco.
 * ✔️ Graduação - Gestão da Tecnologia da Informação - EAD Cruzeiro do Sul.
