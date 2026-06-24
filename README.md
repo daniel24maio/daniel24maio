@@ -2,6 +2,7 @@
 
 
 * 👨‍🎓 Graduando em Sistemas de Informação - IFMG - Campus Ouro Branco.
+* 👨‍💻 Desenvolvedor de Software Jr - CI&T (2026).
 * 👨‍💻 Estágio em Desenvolvimento Web - CI&T (2025).
 * 👨‍💻 Analista de Sistemas Jr - CLI Consultoria (2022 - 2025).
 * ✔️ Bolsista PIBEX - Projeto Professor Digital, IFMG - Campus Ouro Branco.
